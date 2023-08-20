@@ -1,0 +1,26 @@
+.History-container {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+}
+
+.History-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  font-style: normal;
+  font-weight: 600;
+  text-decoration-line: none;
+}
+
+.social-media-icon {
+  height: 20px;
+  width: 20px;
+  margin: 15px;
+}
+
+.Domain-name {
+  color: #64748b;
+  margin-left: 10px;
+}
